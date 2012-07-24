@@ -1,0 +1,33 @@
+/* Optimized for the 980px MH width */
+
+/* Smartphones, iPhone, Portrait 480x320 phones */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+}
+
+/* Portrait e-readers, Small tablets */
+@media only screen and (min-width: 481px) and (max-width: 640px) {
+
+}
+
+/* Portrait tablets, Landscape e-readers, Landscape 800x400 and 854x480 phones */
+@media only screen and (min-width: 641px) and (max-width: 979px) {
+
+}
+
+/* Landscape tablets, Lo-res laptops and desktops */
+@media only screen and (min-width: 980px) and (max-width: 1024px) {
+
+}
+
+/* Big landscape tablets, laptops and desktops */
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+/* Hi-res laptops and desktops */
+@media only screen and (min-width: 1281px) {
+
+}
+
+
