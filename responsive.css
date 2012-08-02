@@ -13,6 +13,190 @@
 /* Portrait tablets, Landscape e-readers, Landscape 800x400 and 854x480 phones */
 @media only screen and (min-width: 641px) and (max-width: 979px) {
 
+	#cabecera
+	{
+	  display:inline-block;
+	}
+
+	#menu
+	{
+	  width:100%;
+	  height:30px;
+	  font-weight:700;
+	}
+
+	#social
+	{
+	  margin-top:-70px;
+	  width:135px;
+	}
+
+	.custom-slider
+	{
+	  width:740px;
+	  margin:0 auto;
+	}
+
+	#navigation li > a
+	{
+	  min-width:75px;
+	}
+
+	div#barra
+	{
+	  float:none!important;
+	  width:735px;
+	  margin:0 auto;
+	}
+
+	div#main-content
+	{
+	  width:740px!important;
+	  float:none!important;
+	  margin:0 auto;
+	}
+
+	div#barra form
+	{
+	  display:none;
+	}
+
+	div#barra dl,h3#involucrate,h3#boletin,p.boletin,div#barra ul
+	{
+	  width:33%;
+	}
+
+	div#barra ul
+	{
+	  margin-top:-240px!important;
+	  float:right;
+	}
+
+	div#barra ul li
+	{
+	  list-style:none;
+	}
+
+	h3#involucrate
+	{
+	  float:left;
+	}
+
+	h3#destacado
+	{
+	  float:right;
+	  margin-top:-320px!important;
+	  display:block!important;
+	  width:23%;
+	}
+
+	p.boletin a
+	{
+	  color:#FFF;
+	}
+
+	p.boletin
+	{
+	  font-weight:700;
+	  float:left;
+	  margin-top:-240px!important;
+	  width:27%!important;
+	  margin-left:250px;
+	  display:inline!important;
+	  color:#FFF;
+	  background-color:#0074CC;
+	  background-image:-moz-linear-gradient(center top , #0088CC, #0055CC);
+	  background-repeat:repeat-x;
+	  border-image:none;
+	  border-radius:4px;
+	  box-shadow:0 1px 0 rgba(255,255,255,0.2) inset, 0 1px 2px rgba(0,0,0,0.05);
+	  cursor:pointer;
+	  font-size:13px;
+	  line-height:18px;
+	  margin-bottom:0;
+	  text-align:center;
+	  vertical-align:middle;
+	  border-color:#E6E6E6 #E6E6E6 #B3B3B3;
+	  border-style:solid;
+	  border-width:1px;
+	  padding:4px 10px;
+	}
+
+	#barra h3#boletin
+	{
+	  float:left;
+	  margin-top:-310px!important;
+	  margin-left:240px;
+	  display:inline!important;
+	}
+
+	.colored_block
+	{
+	  height:260px;
+	  top:123px;
+	}
+
+	#middle
+	{
+	  width:742px;
+	  margin:-28px auto 30px;
+	  padding:6px;
+	}
+
+	#bottom
+	{
+	  padding-top:74px;
+	  margin-top:-104px;
+	}
+
+	#top_sidebar
+	{
+	  padding:20px 20px 0;
+	}
+
+	#middle_content,.middle_sidebar
+	{
+	  padding:20px;
+	}
+
+	.cmsms_slider_parent,#slider
+	{
+	  width:740px;
+	  height:300px;
+	}
+
+	.content_wrap
+	{
+	  background-position:480px 0;
+	}
+
+	.content_wrap.sidebar_left
+	{
+	  background-position:259px 0;
+	}
+
+	#content
+	{
+	  width:440px;
+	  padding:20px;
+	}
+
+	#pie #pie-contenido .c1
+	{
+	  width:110px;
+	}
+
+	#lienzo,.header
+	{
+	  width:740px;
+	}
+
+	#tullido,#pie
+	{
+	  width:740px;
+	  margin:0 auto;
+	}
+
 }
 
 /* Landscape tablets, Lo-res laptops and desktops */
